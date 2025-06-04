@@ -235,9 +235,3 @@ Google Apps Script (GAS) を使って YouTube Data API v3 を呼び出し、検�
   2. `outputResults()` のヘッダー・出力ロジックを拡張  
   3. `configureChartData()` に新たなチャート生成ロジックを追加  
 
----
-
-## ライセンス
-
-MIT License  
-詳しくは [LICENSE](LICENSE) ファイルを参照してください。
