@@ -1,5 +1,11 @@
 # YouTube 分析スプレッドシート (GAS)
 
+<!-- Badges -->
+[![Google Apps Script](https://img.shields.io/badge/Google%20Apps%20Script-4285F4?style=for-the-badge&logo=google-apps-script&logoColor=white)](https://developers.google.com/apps-script)  
+[![YouTube Data API](https://img.shields.io/badge/YouTube_Data_API-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://developers.google.com/youtube/v3)  
+[![Google Sheets](https://img.shields.io/badge/Google_Sheets-0F9D58?style=for-the-badge&logo=googlesheets&logoColor=white)](https://www.google.com/sheets/about/)  
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/docs/Web/JavaScript)  
+
 Google Apps Script (GAS) を使って YouTube Data API v3 を呼び出し、検索結果を取得・集計・可視化するスプレッドシート用ツールです。  
 以下の手順で導入すれば、キーワードを変更しながら各種動画指標をスプレッドシート上で手軽に比較・グラフ化できます。
 
